@@ -21,8 +21,6 @@ When the page is refreshed, the tasks for each row will persist.
 Deployed Application: https://tchestnut85.github.io/daily-planner/
 GitHub Repository Link: https://github.com/tchestnut85/daily-planner/
 
-### Screenshots
-
-#### Title
+### Screenshots 
 
 <img src=./assets/images/screenshot-1.JPG/>
