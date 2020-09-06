@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## About this App 
 This is a workday planner that displays the current date and time that will help the user with scheduling their tasks throughout the day.
