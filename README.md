@@ -18,9 +18,9 @@ When the page is refreshed, the tasks for each row will persist.
 * Font Awesome
 
 ### Accessing the Application
-Deployed Application: https://tchestnut85.github.io/daily-planner/
-GitHub Repository Link: https://github.com/tchestnut85/daily-planner/
+* Deployed Application: https://tchestnut85.github.io/daily-planner/
+* GitHub Repository Link: https://github.com/tchestnut85/daily-planner/
 
-### Screenshots 
+### Screenshot
 
 <img src=./assets/images/screenshot-1.JPG/>
